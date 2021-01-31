@@ -1,7 +1,7 @@
 # Python Data Science Handbook
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sp2445/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sp2445/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
 This repository contains the entire [Python Data Science Handbook](http://shop.oreilly.com/product/0636920034919.do), in the form of (free!) Jupyter notebooks.
 
